@@ -24,7 +24,7 @@ public class MyCalc {
 	}
 	public void show()
 	{
-		System.out.println("This is Master Branch");
+		System.out.println("This is Master Branch!");
 	}
 
 	public static void main(String[] args) {
